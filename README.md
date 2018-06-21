@@ -1,6 +1,6 @@
 # 動かし方
 ## 取引所の登録
-1. [ここ]（https://aird.xyz/wp-content/uploads/2018/06/image5.jpg）を参考にして登録する
+1. [ここ](https://aird.xyz/wp-content/uploads/2018/06/image5.jpg)を参考にして登録する
 2. 1.で作ったアカウントから紹介URLを作って、また新しいアカウントを作る
 3. 2.で作った取引所に入金する
 ## 売買プログラムを動かす
