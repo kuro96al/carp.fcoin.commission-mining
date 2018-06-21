@@ -15,3 +15,5 @@ bash order.sh
 * [取引手数料うんぬんの話](https://scam-analysis.com/archives/4832)
 
 * 新規登録から90日までな点に注意
+
+4:30稼働
